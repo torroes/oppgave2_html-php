@@ -1,0 +1,26 @@
+/* https://www.w3schools.com/css/default.asp */
+
+body {
+    
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: rgb(126, 59, 59);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  /* https://www.w3schools.com/css/css_positioning.asp */
+  /* https://www.w3schools.com/cssref/sel_class.asp */
+
+  .center {
+    margin: auto;
+    width: 70%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+  }
